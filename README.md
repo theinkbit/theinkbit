@@ -33,7 +33,7 @@ I also use Proxmox, Lavalink, Azuracast, Icecast and WebSockets a fair bit.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theinkbit&theme=radical&hide_border=true" />
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theinkbit&theme=radical&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theinkbit&theme=radical" />
 </p>
 
 ### Contact
