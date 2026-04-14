@@ -27,10 +27,13 @@ I also use Proxmox, Lavalink, Azuracast, Icecast and WebSockets a fair bit.
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=theinkbit&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theinkbit&show_icons=true&theme=radical&hide_border=true" />
 </p>
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theinkbit&theme=github-dark&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theinkbit&theme=radical&hide_border=true" />
+</p>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theinkbit&theme=radical&hide_border=true" />
 </p>
 
 ### Contact
